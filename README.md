@@ -1,6 +1,6 @@
 # Twin-Paradox
-Einstein Special Relativity's one of the  Paradox Name Twin Paradox Demonstration and Calculator Using Java Script
-[Visit](https://jaygajera17.github.io/Twin-Paradox/)
+- Einstein Special Relativity's one of the  Paradox Name Twin Paradox Demonstration and Calculator Using Java Script
+- [Visit Site](https://jaygajera17.github.io/Twin-Paradox/)
 ## Features
 
 - Paradox demonstration
